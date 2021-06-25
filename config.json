@@ -1,0 +1,13 @@
+{
+   "baseURL": "http://www.bylins.su/",
+   "languageCode": "ru_RU",
+   "title": "МАД/МУД(MUD) Былины - бесплатная текстовая игра онлайн по русским сказкам",
+
+   "markup": {
+      "goldmark": {
+         "renderer": {
+            "unsafe": true
+         }
+      }
+   }
+}

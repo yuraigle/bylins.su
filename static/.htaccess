@@ -1,0 +1,39 @@
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^about$
+RewriteRule   ^(.*)$ /about/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^advice$
+RewriteRule   ^(.*)$ /advice/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^newbies$
+RewriteRule   ^(.*)$ /newbie/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^about_all$
+RewriteRule   ^(.*)$ /all/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^druzhins$
+RewriteRule   ^(.*)$ /clans/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^gallery$
+RewriteRule   ^(.*)$ /gallery/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^files$
+RewriteRule   ^(.*)$ /files/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^bild$
+RewriteRule   ^(.*)$ /builder/? [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/$
+RewriteCond   %{QUERY_STRING}   ^links$
+RewriteRule   ^(.*)$ /links/? [R=301,L]
