@@ -1,3 +1,7 @@
+---
+title: Настройка прокси
+---
+
 &nbsp;
 
 <p style='text-align: center'>

@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -23,8 +27,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Алькира, Савватий, Млада</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/alkira.jpg" border=0>
-<img src="/gallery_pl/alkira_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/alkira.jpg" border=0>
+<img src="/img_gallery_pl/alkira_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр<br>
 <b>Город :</b> Удомля<br>
@@ -41,8 +45,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Зенава, Пеола</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/zenava.jpg" border=0>
-<img src="/gallery_pl/zenava_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/zenava.jpg" border=0>
+<img src="/img_gallery_pl/zenava_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Игорь<br>
 <b>Город :</b> Удомля<br>
@@ -60,8 +64,8 @@
 <td colspan=2 align=center><b>Клонд, Акув
 </b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/klond.jpg" border=0>
-<img src="/gallery_pl/klond_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/klond.jpg" border=0>
+<img src="/img_gallery_pl/klond_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Михаил<br>
 <b>Город :</b> Москва<br>
@@ -81,8 +85,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Глушко</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/glushko.jpg" border=0>
-<img src="/gallery_pl/glushko_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/glushko.jpg" border=0>
+<img src="/img_gallery_pl/glushko_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Андрей<br>
 <b>Город :</b> Владивосток<br>
@@ -99,8 +103,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Вьюгорн</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/view.gif" border=0>
-<img src="/gallery_pl/view_sm.jpg" border=0>
+<a href="/img_gallery_pl/view.gif" border=0>
+<img src="/img_gallery_pl/view_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Сандро<br>
 <b>Город :</b> МСК<br>
@@ -116,8 +120,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Гразий, Евпараския</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/grazij.jpg" border=0>
-<img src="/gallery_pl/grazij_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/grazij.jpg" border=0>
+<img src="/img_gallery_pl/grazij_sm.jpg" border=0>
 </a></td>
 <td><br><b>Имя :</b> Юрий<br>
 <b>Город :</b> Тернополь, Украина<br>
@@ -136,8 +140,8 @@ i повну пазуху цицьок<br>
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Тармир</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/tarmir.jpg" border=0>
-<img src="/gallery_pl/tarmir_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/tarmir.jpg" border=0>
+<img src="/img_gallery_pl/tarmir_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> зовут Валентин<br>
 <b>Город :</b> город Минск<br>
@@ -157,9 +161,9 @@ i повну пазуху цицьок<br>
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Гефрат</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/gefrat2.jpg" border=0>
-<img src="/gallery_pl/gefrat2_sm.jpg" border=0><br><br><a href="/gallery_pl/gefrat3.jpg" border=0>
-<img src="/gallery_pl/gefrat3_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/gefrat2.jpg" border=0>
+<img src="/img_gallery_pl/gefrat2_sm.jpg" border=0><br><br><a data-fslightbox href="/img_gallery_pl/gefrat3.jpg" border=0>
+<img src="/img_gallery_pl/gefrat3_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b>Света<br>
 <b>Город :</b>Питер<br>
@@ -175,8 +179,8 @@ i повну пазуху цицьок<br>
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Амрина</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/amrina.jpg" border=0>
-<img src="/gallery_pl/amrina_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/amrina.jpg" border=0>
+<img src="/img_gallery_pl/amrina_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b>Юля<br>
 <b>Город :</b>Питер<br>
@@ -210,16 +214,11 @@ i повну пазуху цицьок<br>
 <br/>
 
 <hr width=80%>
-Чтобы попасть в галерею, высылайте по адресу <a href="mailto:rt_ek@inbox.ru">rt_ek@inbox.ru</a>
+Чтобы попасть в галерею, высылайте по адресу <a href="mailto:yuraigle@gmail.com">yuraigle@gmail.com</a>
 фото и следующую информацию:
-<ol>
-<li>Имя главного героя, мультов (можете не выделять главного)
-<li>Имя РЛ
-<li>Город
-<li>Дата рождения
-<li>e-mail
-<li>Домашняя страница
-<li>ICQ UIN
-<li>ник на IRC-канале "Былин"
-<li>Кратко о себе
-</ol>
+<ul>
+    <li>Имя главного героя, мультов (можете не выделять главного)
+    <li>Имя РЛ
+    <li>Город
+    <li>Кратко о себе
+</ul>

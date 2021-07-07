@@ -1,3 +1,7 @@
+---
+title: О нас
+---
+
 &nbsp;
 
 <p style='text-align: center'>

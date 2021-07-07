@@ -1,3 +1,7 @@
+---
+title: Логи
+---
+
 &nbsp;
 <p style='text-align: center'>
     <img src="/img/tit_about_all.gif" alt='Обо всем' />

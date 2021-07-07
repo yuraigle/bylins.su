@@ -1,3 +1,7 @@
+---
+title: Обо всем
+---
+
 &nbsp;
 
 <p style='text-align: center'>

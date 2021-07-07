@@ -1,3 +1,7 @@
+---
+title: Правила создания клановых вещей.
+---
+
 &nbsp;
 
 <p style='text-align: center'>

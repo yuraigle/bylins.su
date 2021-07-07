@@ -1,3 +1,7 @@
+---
+title: Холодное оружие
+---
+
 &nbsp;
 
 <p class='text-center'>

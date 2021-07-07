@@ -1,3 +1,7 @@
+---
+title: FAQ
+---
+
 &nbsp;
 
 <p style='text-align: center'>

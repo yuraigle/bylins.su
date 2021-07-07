@@ -1,3 +1,7 @@
+---
+title: Файлы
+---
+
 &nbsp;
 
 <p class='text-center mb-4'>
@@ -93,7 +97,7 @@
     </td>
 </tr>
 <tr>
-    <td ><a href='/files/license/'>Исходный текст "Былин"</a></td>
+    <td ><a href='/downloads/license/'>Исходный текст "Былин"</a></td>
     <td>
         <i class="letter letter-b">Б</i>еспрецедентный шаг - исходный код движка выложен для публичного скачивания. Внимательно прочтите лицензию.
     </td>

@@ -1,3 +1,7 @@
+---
+title: Что такое MUD?
+---
+
 &nbsp;
 
 <p style='text-align: center'>

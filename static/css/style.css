@@ -93,7 +93,7 @@ header .links>a {
 
 footer {
     text-align: center;
-    padding   : 20px 0;
+    padding   : 20px 122px;
 }
 
 article>p {
@@ -244,6 +244,12 @@ a:hover {
         display: none;
     }
 
+    footer {
+        padding   : 20px 22px;
+        max-width : 516px;
+        margin    : 0 auto;
+    }
+
     .content {
         background: none;
         margin    : 0 auto;
@@ -264,6 +270,7 @@ a:hover {
         display  : block;
         margin   : 5px auto;
         max-width: 516px;
+        padding: 0px 20px;
     }
 
     .alt-header>a {

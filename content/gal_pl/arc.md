@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -23,8 +27,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Слав</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/slav.jpg" border=0>
-<img src="/gallery_pl/slav_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/slav.jpg" border=0>
+<img src="/img_gallery_pl/slav_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Щербаков<br>
 <b>Дата рождения :</b> 16 сентября 1978<br>
@@ -38,11 +42,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Бомж Нирлак, ПОЗВИЗД</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/pozd1.jpg" border=0>
-<img src="/gallery_pl/pozd1_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/pozd1.jpg" border=0>
+<img src="/img_gallery_pl/pozd1_sm.jpg" border=0>
 </a><br>
-<a href="/gallery_pl/pozd2.jpg" border=0>
-<img src="/gallery_pl/pozd2_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/pozd2.jpg" border=0>
+<img src="/img_gallery_pl/pozd2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Петров<br>
 <b>Дата рождения :</b> 22 марта 1971<br>
@@ -60,11 +64,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Перун, Хагрк, Вереск</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/perun11.jpg" border=0>
-<img src="/gallery_pl/perun11_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/perun11.jpg" border=0>
+<img src="/img_gallery_pl/perun11_sm.jpg" border=0>
 </a>
-<a href="/gallery_pl/perun12.jpg" border=0>
-<img src="/gallery_pl/perun12_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/perun12.jpg" border=0>
+<img src="/img_gallery_pl/perun12_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Слученков Андрей Александрович<br>
 <b>Дата рождения :</b> 25 августа 1980 г.<br>
@@ -79,12 +83,12 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Лель</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/dikiy.jpg" border=0>
-<img src="/gallery_pl/dikiy_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/dikiy.jpg" border=0>
+<img src="/img_gallery_pl/dikiy_sm.jpg" border=0>
 </a><br>
-<a href="/gallery_pl/dikiy2.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/dikiy2.jpg" border=0>
 <br>
-<img src="/gallery_pl/dikiy2_sm.jpg" border=0>
+<img src="/img_gallery_pl/dikiy2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Андрей Базникин<br>
 <b>Дата рождения :</b> 27 января 1979<br>
@@ -98,8 +102,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Зиав</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/ziaw.jpg" border=0>
-<img src="/gallery_pl/ziaw_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/ziaw.jpg" border=0>
+<img src="/img_gallery_pl/ziaw_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Зимин<br>
 <b>Дата рождения :</b> 1 сентября 1976<br>
@@ -113,8 +117,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Ивас, Кроха, Шнырь, Самма, Иолана</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/ivas.jpg" border=0>
-<img src="/gallery_pl/ivas_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/ivas.jpg" border=0>
+<img src="/img_gallery_pl/ivas_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Иван Алексенцев<br>
 <b>Дата рождения :</b> 10 апреля 1981<br>
@@ -128,8 +132,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Боригор</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/xander.jpg" border=0>
-<img src="/gallery_pl/xander_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/xander.jpg" border=0>
+<img src="/img_gallery_pl/xander_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Бурлаченко<br>
 <b>Дата рождения :</b> 7 февраля 1971<br>
@@ -143,8 +147,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Кузьма</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kuzma.jpg" border=0>
-<img src="/gallery_pl/kuzma_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kuzma.jpg" border=0>
+<img src="/img_gallery_pl/kuzma_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Алексей Соболев<br>
 <b>Дата рождения :</b> 15 января 1973<br>
@@ -158,8 +162,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Эллиот</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/elliot.jpg" border=0>
-<img src="/gallery_pl/elliot_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/elliot.jpg" border=0>
+<img src="/img_gallery_pl/elliot_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Яаан Валдманн<br>
 <b>Дата рождения :</b> 06 фераля 1981<br>
@@ -172,8 +176,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Любава</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/lubava.jpg" border=0>
-<img src="/gallery_pl/lubava_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/lubava.jpg" border=0>
+<img src="/img_gallery_pl/lubava_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Юлия Поротикова<br>
 <b>Дата рождения :</b> 8 декабрz 1980<br>
@@ -187,8 +191,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Камилла</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kamilla.jpg" border=0>
-<img src="/gallery_pl/kamilla_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kamilla.jpg" border=0>
+<img src="/img_gallery_pl/kamilla_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Оксана Пагина<br>
 <b>Дата рождения :</b> 25 апреля 1980<br>
@@ -203,11 +207,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Алексей</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/lex.jpg" border=0>
-<img src="/gallery_pl/lex_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/lex.jpg" border=0>
+<img src="/img_gallery_pl/lex_sm.jpg" border=0>
 </a><br>
-<a href="/gallery_pl/lex1.jpg" border=0>
-<img src="/gallery_pl/lex1_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/lex1.jpg" border=0>
+<img src="/img_gallery_pl/lex1_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Алексей Сидоров<br>
 <b>Дата рождения :</b> 25 марта 1977<br>
@@ -221,8 +225,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Варг, Расенл</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/varg.jpg" border=0>
-<img src="/gallery_pl/varg_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/varg.jpg" border=0>
+<img src="/img_gallery_pl/varg_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Денис<br>
 <b>Дата рождения :</b> 27 августа 1977 г. н.э.<br>
@@ -236,8 +240,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Мораддин, Веллан</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/vellan.jpg" border=0>
-<img src="/gallery_pl/vellan_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/vellan.jpg" border=0>
+<img src="/img_gallery_pl/vellan_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Кондратов Дмитрий<br>
 <b>Дата рождения :</b> 346 н.э.<br>
@@ -252,11 +256,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Ольга</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kissa1.jpg" border=0>
-<img src="/gallery_pl/kissa1_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kissa1.jpg" border=0>
+<img src="/img_gallery_pl/kissa1_sm.jpg" border=0>
 </a><br>
-<a href="/gallery_pl/kissa2.jpg" border=0>
-<img src="/gallery_pl/kissa2_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kissa2.jpg" border=0>
+<img src="/img_gallery_pl/kissa2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Ольга Соловьева<br>
 <b>Дата рождения :</b> 29 маz 1984<br>
@@ -270,8 +274,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Арэль, Григорий</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/living.jpg" border=0>
-<img src="/gallery_pl/living_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/living.jpg" border=0>
+<img src="/img_gallery_pl/living_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Трефилкин Алексей<br>
 <b>Дата рождения :</b> 15 января 79<br>
@@ -285,8 +289,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Дэнбор, Симпель</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/danbor.jpg" border=0>
-<img src="/gallery_pl/danbor_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/danbor.jpg" border=0>
+<img src="/img_gallery_pl/danbor_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Денис Лысенко<br>
 <b>Дата рождения :</b> 18 января 1980<br>
@@ -300,8 +304,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Хорон,Дружеслав</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/horon.jpg" border=0>
-<img src="/gallery_pl/horon_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/horon.jpg" border=0>
+<img src="/img_gallery_pl/horon_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Ильин Дмитрий<br>
 <b>Дата рождения :</b> 24 ноября 1980г<br>
@@ -315,8 +319,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Насик</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/nasik.jpg" border=0>
-<img src="/gallery_pl/nasik_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/nasik.jpg" border=0>
+<img src="/img_gallery_pl/nasik_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Анастасия Кареева<br>
 <b>Дата рождения :</b> 8 апреля 1980 г.<br>
@@ -330,8 +334,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Риланиус, Крутобор</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/romanius.jpg" border=0>
-<img src="/gallery_pl/romanius_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/romanius.jpg" border=0>
+<img src="/img_gallery_pl/romanius_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Роман Фисенко<br>
 <b>Дата рождения :</b> 2 ноября 1976г.<br>
@@ -345,8 +349,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Алешка</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/aleshka.jpg" border=0>
-<img src="/gallery_pl/aleshka_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/aleshka.jpg" border=0>
+<img src="/img_gallery_pl/aleshka_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Алексей Пиков<br>
 <b>Дата рождения :</b> n/a<br>
@@ -360,8 +364,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Лилианна,Лиля,Бусинька,Буся</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/lilya.jpg" border=0>
-<img src="/gallery_pl/lilya_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/lilya.jpg" border=0>
+<img src="/img_gallery_pl/lilya_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Лиля Пушкина<br>
 <b>Дата рождения :</b> 19 марта 1983<br>
@@ -375,11 +379,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Андора, Ермак, Анаксимандр</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/andora1.jpg" border=0>
-<img src="/gallery_pl/andora1_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/andora1.jpg" border=0>
+<img src="/img_gallery_pl/andora1_sm.jpg" border=0>
 </a>
-<a href="/gallery_pl/andora2.jpg" border=0>
-<img src="/gallery_pl/andora2_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/andora2.jpg" border=0>
+<img src="/img_gallery_pl/andora2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Карасов<br>
 <b>Дата рождения :</b> 08 октября 1979<br>
@@ -393,8 +397,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Миколыч, Николаич, Таргудун, Дракеныч, и др.</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/senuta.jpg" border=0>
-<img src="/gallery_pl/senuta_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/senuta.jpg" border=0>
+<img src="/img_gallery_pl/senuta_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Сенюта Николай Николаевич<br>
 <b>Дата рождения :</b> 14 июня 1982<br>
@@ -408,8 +412,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Нелли</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/nelli.jpg" border=0>
-<img src="/gallery_pl/nelli_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/nelli.jpg" border=0>
+<img src="/img_gallery_pl/nelli_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Татьяна<br>
 <b>Дата рождения :</b> 13 июля 1980 г.<br>
@@ -423,7 +427,7 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Година</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<img src="/gallery_pl/pomah.jpg" border=0>
+<img src="/img_gallery_pl/pomah.jpg" border=0>
 </td>
 <td><b>Имя :</b> Роман Бондарев aka POMAH (читается как "Помах" :)<br>
 <b>Дата рождения :</b> 1 декабря 1975 г.<br>
@@ -437,8 +441,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Диант,Малик,Торин,Мерлок,Кенк,Дактон,Декор,Аркейн</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/darken.jpg" border=0>
-<img src="/gallery_pl/darken_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/darken.jpg" border=0>
+<img src="/img_gallery_pl/darken_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Олег<br>
 <b>Дата рождения :</b> 1985<br>
@@ -453,11 +457,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Леко, Тэлла</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/leko.jpg" border=0>
-<img src="/gallery_pl/leko_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/leko.jpg" border=0>
+<img src="/img_gallery_pl/leko_sm.jpg" border=0>
 </a>
-<a href="/gallery_pl/tella.jpg" border=0>
-<img src="/gallery_pl/tella_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/tella.jpg" border=0>
+<img src="/img_gallery_pl/tella_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Алексей, Татьяна<br>
 <b>Город :</b> Курск<br>
@@ -472,8 +476,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Прокиус, Прокт, Нариэль</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/procius.jpg" border=0>
-<img src="/gallery_pl/procius_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/procius.jpg" border=0>
+<img src="/img_gallery_pl/procius_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Юрка<br>
 <b>Город :</b> Жил в красавице Самаре, а работаю в Мск<br>
@@ -500,8 +504,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Дори Борг Цуки</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/borg.jpg" border=0>
-<img src="/gallery_pl/borg_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/borg.jpg" border=0>
+<img src="/img_gallery_pl/borg_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Шурик<br>
 <b>Город :</b> Москоу<br>
@@ -517,8 +521,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Вильгельм</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/hazy.jpg" border=0>
-<img src="/gallery_pl/hazy_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/hazy.jpg" border=0>
+<img src="/img_gallery_pl/hazy_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Антон<br>
 <b>Город :</b> Якутск<br>
@@ -534,8 +538,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Биглон, Скрижал, Скрадобор</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/biglon.jpg" border=0>
-<img src="/gallery_pl/biglon_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/biglon.jpg" border=0>
+<img src="/img_gallery_pl/biglon_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Максим<br>
 <b>Город :</b> Владивосток<br>
@@ -550,8 +554,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Крылина</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/krylina.jpg" border=0>
-<img src="/gallery_pl/krylina_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/krylina.jpg" border=0>
+<img src="/img_gallery_pl/krylina_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Марина<br>
 <b>Город :</b> Санкт-Питербург<br>
@@ -566,8 +570,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Агнесса</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/agnessa.jpg" border=0>
-<img src="/gallery_pl/agnessa_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/agnessa.jpg" border=0>
+<img src="/img_gallery_pl/agnessa_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Ирина<br>
 <b>Город :</b> Йыхви, Эстония<br>
@@ -582,8 +586,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Генадий, Кавак</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kavak.jpg" border=0>
-<img src="/gallery_pl/kavak_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kavak.jpg" border=0>
+<img src="/img_gallery_pl/kavak_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Трунов Макс<br>
 <b>Город :</b> Киев<br>
@@ -598,8 +602,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Тилона</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/tilona.jpg" border=0>
-<img src="/gallery_pl/tilona_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/tilona.jpg" border=0>
+<img src="/img_gallery_pl/tilona_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Маша Калинина<br>
 <b>Город :</b> Выборг<br>
@@ -614,8 +618,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Полюшка</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/polushka.jpg" border=0>
-<img src="/gallery_pl/polushka_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/polushka.jpg" border=0>
+<img src="/img_gallery_pl/polushka_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Олька<br>
 <b>Город :</b> Ижевск<br>
@@ -632,8 +636,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Ники</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/niki.jpg" border=0>
-<img src="/gallery_pl/niki_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/niki.jpg" border=0>
+<img src="/img_gallery_pl/niki_sm.jpg" border=0>
 </a></td>
 <td>
 &nbsp;
@@ -644,8 +648,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Беска</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/beska.jpg" border=0>
-<img src="/gallery_pl/beska_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/beska.jpg" border=0>
+<img src="/img_gallery_pl/beska_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Виссарион <br>
 <b>Дата рождения :</b> 1 марта 1981 года<br>
@@ -660,8 +664,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Гурт</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/denius07.jpg" border=0>
-<img src="/gallery_pl/denius07_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/denius07.jpg" border=0>
+<img src="/img_gallery_pl/denius07_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Денис Гуржий <br>
 <b>Город :</b> Москва<br>
@@ -676,8 +680,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Вадим,Амир,Ильмар,Валки</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/scream.jpg" border=0>
-<img src="/gallery_pl/scream_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/scream.jpg" border=0>
+<img src="/img_gallery_pl/scream_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Александр Удомля <br>
 <b>Дата рождения :</b> 14.09.1979 <br>
@@ -691,8 +695,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Элла</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/eliora.jpg" border=0>
-<img src="/gallery_pl/eliora_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/eliora.jpg" border=0>
+<img src="/img_gallery_pl/eliora_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Элиора <br>
 <b>Город :</b> Тернополь (Украина)<br>
@@ -707,8 +711,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Браст (кто то занял гады)</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/brast.jpg" border=0>
-<img src="/gallery_pl/brast_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/brast.jpg" border=0>
+<img src="/img_gallery_pl/brast_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Дмитрий<br>
 <b>Город :</b> Екатеринбург<br>
@@ -724,11 +728,11 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Кинто</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kinto1.jpg" border=0>
-<img src="/gallery_pl/kinto1_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kinto1.jpg" border=0>
+<img src="/img_gallery_pl/kinto1_sm.jpg" border=0>
 </a><br>
-<a href="/gallery_pl/kinto2.jpg" border=0>
-<img src="/gallery_pl/kinto2_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kinto2.jpg" border=0>
+<img src="/img_gallery_pl/kinto2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Дмитрий<br>
 <b>Город :</b> Новосибирск<br>
@@ -743,8 +747,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Ролита, Вортена, Полена</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/rolita.jpg" border=0>
-<img src="/gallery_pl/rolita_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/rolita.jpg" border=0>
+<img src="/img_gallery_pl/rolita_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Лилиана<br>
 <b>Город :</b> Екатеринбург<br>
@@ -761,8 +765,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Хоремир</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/horemir.jpg" border=0>
-<img src="/gallery_pl/horemir_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/horemir.jpg" border=0>
+<img src="/img_gallery_pl/horemir_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Иван<br>
 <b>Город :</b> Москва-столица-нашей-великой-родины Ж)<br>
@@ -783,8 +787,8 @@
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Беньямин</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/beniamin.jpg" border=0>
-<img src="/gallery_pl/beniamin_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/beniamin.jpg" border=0>
+<img src="/img_gallery_pl/beniamin_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Алексей<br>
 <b>Город :</b> Кфар-Саба<br>
@@ -801,8 +805,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Фанден, Гарм</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/fanden.jpg" border=0>
-<img src="/gallery_pl/fanden_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/fanden.jpg" border=0>
+<img src="/img_gallery_pl/fanden_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Сергей<br>
 <b>Город :</b> Санкт-Петербург<br>
@@ -824,8 +828,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Ерика</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/erika.jpg" border=0>
-<img src="/gallery_pl/erika_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/erika.jpg" border=0>
+<img src="/img_gallery_pl/erika_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Ирчик<br>
 <b>Город :</b> Тернополь<br>
@@ -842,8 +846,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Шакур</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/vova.jpg" border=0>
-<img src="/gallery_pl/vova_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/vova.jpg" border=0>
+<img src="/img_gallery_pl/vova_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Вова<br>
 <b>Город :</b> Тернополь<br>
@@ -861,8 +865,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Негал,Морк,Лортан,Шумило</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/negal.jpg" border=0>
-<img src="/gallery_pl/negal_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/negal.jpg" border=0>
+<img src="/img_gallery_pl/negal_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Олег<br>
 <b>Город :</b> Санкт-Петербург<br>
@@ -877,8 +881,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Клуша, Хаврошечка, Евления, Солоха</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/soloha.jpg" border=0>
-<img src="/gallery_pl/soloha_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/soloha.jpg" border=0>
+<img src="/img_gallery_pl/soloha_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Яна, Яся, Яника, вобщем как кому нравится.<br>
 <b>Город :</b> Carrara (Australia)<br>
@@ -895,8 +899,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Савриил, Ванька, Раодон, Мирок</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/mirok.jpg" border=0>
-<img src="/gallery_pl/mirok_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/mirok.jpg" border=0>
+<img src="/img_gallery_pl/mirok_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Блищ Иван Степанович<br>
 <b>Город :</b> Тернополь<br>
@@ -911,8 +915,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Задиг</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/narok.jpg" border=0>
-<img src="/gallery_pl/narok_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/narok.jpg" border=0>
+<img src="/img_gallery_pl/narok_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Тарасов Евгений Владимирович<br>
 <b>Город :</b> г. Москва<br>
@@ -929,8 +933,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Огалай</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/ogalay.jpg" border=0>
-<img src="/gallery_pl/ogalay_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/ogalay.jpg" border=0>
+<img src="/img_gallery_pl/ogalay_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Илья<br>
 <b>Город :</b> Москва<br>
@@ -946,8 +950,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Китра</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/kitra.jpg" border=0>
-<img src="/gallery_pl/kitra_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/kitra.jpg" border=0>
+<img src="/img_gallery_pl/kitra_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Ира<br>
 <b>Город :</b> Кривой Рог<br>
@@ -963,8 +967,8 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 <table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Авдей</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/avdej.jpg" border=0>
-<img src="/gallery_pl/avdej_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/avdej.jpg" border=0>
+<img src="/img_gallery_pl/avdej_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Евсюков Сергей<br>
 <b>Город :</b> Липецк<br>
@@ -980,10 +984,10 @@ Trance и играю в разных клубах в Тель-Авиве, но �
 </table><table align=center width=450 cellspacing=0 cellpadding=0 border=1><tr>
 <td colspan=2 align=center><b>Сфайрат</b></td></tr>
 <tr><td width=140 align=center valign=middle>
-<a href="/gallery_pl/sfayrat1.jpg" border=0>
-<img src="/gallery_pl/sfayrat1_sm.jpg" border=0></a><br>
-<a href="/gallery_pl/sfayrat2.jpg" border=0>
-<img src="/gallery_pl/sfayrat2_sm.jpg" border=0>
+<a data-fslightbox href="/img_gallery_pl/sfayrat1.jpg" border=0>
+<img src="/img_gallery_pl/sfayrat1_sm.jpg" border=0></a><br>
+<a data-fslightbox href="/img_gallery_pl/sfayrat2.jpg" border=0>
+<img src="/img_gallery_pl/sfayrat2_sm.jpg" border=0>
 </a></td>
 <td><b>Имя :</b> Истигечев Максим Сергеевич<br>
 <b>Город :</b> Томск<br>

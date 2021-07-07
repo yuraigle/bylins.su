@@ -1,3 +1,7 @@
+---
+title: Правила создания кланового замка
+---
+
 &nbsp;
 
 <p style='text-align: center'>

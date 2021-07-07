@@ -1,3 +1,7 @@
+---
+title: Логи
+---
+
 &nbsp;
 
 <p style='text-align: center'>

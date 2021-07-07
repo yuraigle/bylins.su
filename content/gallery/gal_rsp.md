@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -5,7 +9,7 @@
 </p>
 
 <center>
-<a href="/gallery/rsp.jpg"><img border=0 src="/gallery/rsp_sm.jpg"></a>
+<a href="/img_gallery/rsp.jpg"><img border=0 src="/img_gallery/rsp_sm.jpg"></a>
 
 <br>Ковшегуб, Тесса, Алишер, Снури (Страныч), Кассандра (Адиту), Софи (Белобог).
 <br>

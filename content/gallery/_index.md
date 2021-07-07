@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>

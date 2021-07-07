@@ -1,3 +1,7 @@
+---
+title: Новичку
+---
+
 &nbsp;
 
 <p style='text-align: center'>

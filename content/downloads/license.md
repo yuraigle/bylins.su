@@ -1,3 +1,7 @@
+---
+title: Лиценция
+---
+
 &nbsp;
 
 <p class='text-center mb-4'>

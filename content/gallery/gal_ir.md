@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -9,7 +13,7 @@
 ошибке видимо), Ролло (малоизвестен да и то в среде пострадавших ньюбисов), и
 первый ПКиллер в былинах - Савелий, Торопка и иже с ними Слав.
 <center>
-<a href="/gallery/ir/ir1.jpg"><img border=0 src="/gallery/ir/ir1_sm.jpg"></a>
+<a href="/img_gallery/ir/ir1.jpg"><img border=0 src="/img_gallery/ir/ir1_sm.jpg"></a>
 </center>
 <br>
 <br>Славным русичам 1 - (аналогично слева направо)-
@@ -25,12 +29,12 @@
 могет похвастаться аналогичным - пожму руку. Вот.
 
 <center>
-<a href="/gallery/ir/ir2.jpg"><img border=0 src="/gallery/ir/ir2_sm.jpg"></a>
+<a href="/img_gallery/ir/ir2.jpg"><img border=0 src="/img_gallery/ir/ir2_sm.jpg"></a>
 </center>
 <br>
 <br>Славным русичам 2 - все теже, все там же.
 <center>
-<a href="/gallery/ir/ir3.jpg"><img border=0 src="/gallery/ir/ir3_sm.jpg"></a>
+<a href="/img_gallery/ir/ir3.jpg"><img border=0 src="/img_gallery/ir/ir3_sm.jpg"></a>
 </center>
 <br>
 <p>С Уважением, Ратник Несуществующей Рати.</p>

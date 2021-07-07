@@ -1,4 +1,5 @@
 ErrorDocument 404 /404.html
+Options -Indexes
 
 RewriteEngine On
 
@@ -28,7 +29,7 @@ RewriteRule   ^(.*)$ /gallery/? [R=301,L]
 
 RewriteCond   %{REQUEST_URI}    ^/$
 RewriteCond   %{QUERY_STRING}   ^files$
-RewriteRule   ^(.*)$ /files/? [R=301,L]
+RewriteRule   ^(.*)$ /downloads/? [R=301,L]
 
 RewriteCond   %{REQUEST_URI}    ^/$
 RewriteCond   %{QUERY_STRING}   ^bild$

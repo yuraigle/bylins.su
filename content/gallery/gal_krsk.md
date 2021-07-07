@@ -1,3 +1,7 @@
+---
+title: Галерея игроков
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -11,8 +15,8 @@
 <br>
 <br>
 <center>
-<a href="/gallery/krsk/krsk1.jpg"><img border=0 src="/gallery/krsk/krsk1_sm.jpg"></a>
+<a href="/img_gallery/krsk/krsk1.jpg"><img border=0 src="/img_gallery/krsk/krsk1_sm.jpg"></a>
 <br>
 
-<a href="/gallery/krsk/krsk2.jpg"><img border=0 src="/gallery/krsk/krsk2_sm.jpg"></a>
+<a href="/img_gallery/krsk/krsk2.jpg"><img border=0 src="/img_gallery/krsk/krsk2_sm.jpg"></a>
 <br>

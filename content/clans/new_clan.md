@@ -1,3 +1,7 @@
+---
+title: Правила создания и изменения дружины
+---
+
 &nbsp;
 
 <p style='text-align: center'>

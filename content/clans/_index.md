@@ -1,3 +1,7 @@
+---
+title: Дружины
+---
+
 &nbsp;
 
 <p style='text-align: center'>

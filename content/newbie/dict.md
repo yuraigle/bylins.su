@@ -1,3 +1,7 @@
+---
+title: Словарик
+---
+
 &nbsp;
 
 <p style='text-align: center'>

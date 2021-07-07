@@ -1,3 +1,7 @@
+---
+title: Советы
+---
+
 &nbsp;
 
 <p style='text-align: center'>
@@ -8,7 +12,11 @@
 
 <table class='table-links'>
 <tr>
-    <td style='width:40%'><a href='/advice/ukb'>Свод законов мира "Былины"</a></td>
+    <td style='width:40%'><a href='http://wiki.bylins.su/' target='_blank'>Вики Былин</a></td>
+    <td><i class='letter letter-aa'>Э</i>нциклопедия с игровой информацией для быстрого старта</td>
+</tr>
+<tr>
+    <td><a href='/advice/ukb'>Свод законов мира "Былины"</a></td>
     <td><i class='letter letter-aa'>Э</i>то должен знать каждый!</td>
 </tr>
 <tr>

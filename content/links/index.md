@@ -1,3 +1,7 @@
+---
+title: Ссылки
+---
+
 &nbsp;
 
 <p style='text-align: center'>
