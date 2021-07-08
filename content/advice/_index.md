@@ -12,7 +12,11 @@ title: Советы
 
 <table class='table-links'>
 <tr>
-    <td style='width:40%'><a href='http://wiki.bylins.su/' target='_blank'>Вики Былин</a></td>
+    <td style='width:40%'><a href='/help.php'>Справка</a></td>
+    <td><i class='letter letter-v'>В</i>еб-версия команды "справка"</td>
+</tr>
+<tr>
+    <td ><a href='http://wiki.bylins.su/' target='_blank'>Вики Былин</a></td>
     <td><i class='letter letter-aa'>Э</i>нциклопедия с игровой информацией для быстрого старта</td>
 </tr>
 <tr>
