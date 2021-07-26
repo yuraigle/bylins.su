@@ -35,3 +35,15 @@ MUD (МПМ) **Былины** - это русская и абсолютно бе
 MUD - Multi User Dungeon/Dimension/Domain (МАД, МУД).  
 РП, РПГ - RP или RolePlaying, RPG или RolePlayingGames (<a href='https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0' target='_blank'>подробнее</a>).  
 AD&D - Advanced Dungeons & Dragons (если не в курсе, то пройти <a href='https://ru.wikipedia.org/wiki/Dungeons_%26_Dragons' target='_blank'>ликбез</a>).  
+
+
+<p class='text-center mt-4 mb-4'>
+<img src="/img/news.gif" alt='Последние новости' />
+</p>
+
+<div id="news_block"></div>
+<script>
+    fetch('/news.php')
+        .then(resp => resp.json())
+        .then(dd => document.getElementById('news_block').innerHTML = dd.join('<br/>'));
+</script>
