@@ -56,7 +56,7 @@ title: Билдеру
     </td>
 </tr>
 <tr>
-    <td><a href='/files/DGSinfo05.doc'>DGinfo v0.5</a></td>
+    <td><a href='/files/DGSinfo06.doc'>DGinfo v0.6</a></td>
     <td>В этом документе описываются возможности DG Script и особенности его использования в МПМ "Былины".</td>
 </tr>
 <tr>
