@@ -1,6 +1,6 @@
 <footer>
     <hr/><br/>
-    1998-2021 Авторские права на идею и описание игры принадлежат<br/>
+    1998-2022 Авторские права на идею и описание игры принадлежат<br/>
     <a href="mailto:stribog@bylins.su">А.В. Сердюкову</a> и
     <a href="mailto:sventovit@bylins.su">А.Ю. Шумаеву</a><br/>
     Поддержка сайта: <a href="mailto:yuraigle@gmail.com">Ю. Орлов</a>
