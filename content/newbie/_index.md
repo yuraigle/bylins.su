@@ -43,4 +43,8 @@ title: Новичку
     <td><a data-fslightbox='2' href='/img/map2.jpg'>Большая карта</a></td>
     <td><i class="letter letter-k">К</i>арта от родовой деревни до Киева</td>
 </tr>
+<tr>
+    <td><a href='/files/map.bylins-index.html' target="_blank">Визуальная карта</a></td>
+    <td><i class="letter letter-e">Е</i>щё один вариант карты мира Былин. Огромный размер!</td>
+</tr>
 </table>
